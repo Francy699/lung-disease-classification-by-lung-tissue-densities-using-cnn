@@ -1,10 +1,6 @@
-streamlit
 numpy
-pandas
 matplotlib
-keras
-Pillow
 opencv-python-headless
-tensorflow==2.13.0  # Or another compatible version
-
-
+tensorflow
+keras
+streamlit
