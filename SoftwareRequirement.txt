@@ -20,6 +20,9 @@ Package :
  pip install Keras
 
  pip install Streamlit 
+
+ pip install opencv-python
+
 -----------------------------------------------------------------------------------------------------------
 1. Open SourceCode Folder  
 
