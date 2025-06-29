@@ -1,6 +1,8 @@
 numpy
-matplotlib
 opencv-python-headless
+matplotlib
 tensorflow
 keras
 streamlit
+Pillow
+gTTS
